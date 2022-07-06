@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CompositePattern
 {
-    abstract class CompositeElement
+    class CompositeElement
     {
         protected List<CompositeElement> children;
 
