@@ -6,7 +6,8 @@ namespace Facade
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Bank bank = new Bank();
+            bank.DoTransaction();
         }
     }
 }
