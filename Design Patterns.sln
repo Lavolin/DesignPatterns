@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrototypePattern", "PrototypePattern\PrototypePattern.csproj", "{F1F44FEA-FDC8-4BA4-8AB5-AD9182C2AC8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{E62AE84E-6E7D-438E-8167-3635639265F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade", "Facade\Facade.csproj", "{E62AE84E-6E7D-438E-8167-3635639265F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePattern", "CompositePattern\CompositePattern.csproj", "{A120F3F3-FF37-425A-9B3A-F5602A3E0748}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositePattern", "CompositePattern\CompositePattern.csproj", "{A120F3F3-FF37-425A-9B3A-F5602A3E0748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{C282504D-D0CF-4147-BA99-2BEFBE40158C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{A120F3F3-FF37-425A-9B3A-F5602A3E0748}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A120F3F3-FF37-425A-9B3A-F5602A3E0748}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A120F3F3-FF37-425A-9B3A-F5602A3E0748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C282504D-D0CF-4147-BA99-2BEFBE40158C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C282504D-D0CF-4147-BA99-2BEFBE40158C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C282504D-D0CF-4147-BA99-2BEFBE40158C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C282504D-D0CF-4147-BA99-2BEFBE40158C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
