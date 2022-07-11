@@ -4,7 +4,7 @@ using System.Threading;
 
 namespace CompositePattern
 {
-    class Program                   // 2:27
+    class Program                   
     {
         static void Main(string[] args)
         {
