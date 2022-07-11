@@ -15,6 +15,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandPattern", "CommandPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShallowDeepCopy", "ShallowDeepCopy\ShallowDeepCopy.csproj", "{45DFD90C-FAB7-48C3-A372-9E1DCE9B3CF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePatternII", "CompositePatternII\CompositePatternII.csproj", "{EBA02478-E4B4-4529-9ECA-2FA3A0E15581}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplatePattern", "TemplatePattern\TemplatePattern.csproj", "{C8737839-F1D1-4550-A7DA-47FC38E06608}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{45DFD90C-FAB7-48C3-A372-9E1DCE9B3CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45DFD90C-FAB7-48C3-A372-9E1DCE9B3CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45DFD90C-FAB7-48C3-A372-9E1DCE9B3CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBA02478-E4B4-4529-9ECA-2FA3A0E15581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA02478-E4B4-4529-9ECA-2FA3A0E15581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA02478-E4B4-4529-9ECA-2FA3A0E15581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA02478-E4B4-4529-9ECA-2FA3A0E15581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8737839-F1D1-4550-A7DA-47FC38E06608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8737839-F1D1-4550-A7DA-47FC38E06608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8737839-F1D1-4550-A7DA-47FC38E06608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8737839-F1D1-4550-A7DA-47FC38E06608}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
